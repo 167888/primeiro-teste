@@ -1,8 +1,9 @@
 PRIMEIRO TEXTO
-inicio do texto
-parte 2 do texto
-parte 3 do texto
-parte 4 do texto
-oooo
-ghj3jg
-gbhwfhwbnfw
+primeiro commit 
+segundo commit 
+terceiro commit
+quarto commit 
+quinto commit
+sexto commit 
+sétimo commit
+oitavo commit
