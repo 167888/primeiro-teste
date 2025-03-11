@@ -2,3 +2,4 @@ PRIMEIRO TEXTO
 inicio do texto
 parte 2 do texto
 parte 3 do texto
+parte 4 do texto
